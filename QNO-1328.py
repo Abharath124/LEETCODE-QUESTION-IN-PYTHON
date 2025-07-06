@@ -1,16 +1,19 @@
 class Solution(object):
     def breakPalindrome(self, palindrome):
+        """
+        :type palindrome: str
+        :rtype: str
+        """
+        if len(palindrome) <= 1:
+            return "" 
+            
 
-      if palindrome <= 1:
-         return ""
-      
-      palindrome = list(palindrome)
+        palindrome = list(palindrome)
+        for i in range(len(palindrome)//2):
+            if palindrome[i] != 'a':
+                palindrome[i] = 'a'
+                return "".join(palindrome)
+        
 
-      for i in range(len(palindrome)//2):
-         if palindrome[i] != 'a':
-            palindrome[i] = 'a'
-            return "".join(palindrome)
-         
-      palindrome[i] = 'b'
-      return "".join(palindrome)
-                  
+        palindrome[-1] = 'b'
+        return "".join(palindrome)
