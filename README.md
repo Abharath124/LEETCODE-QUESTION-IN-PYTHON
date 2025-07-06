@@ -83,16 +83,15 @@ Contributions & Feedback
 If you're practicing DSA too, feel free to fork the repo or suggest improvements via issues or pull requests!
 Feedback is always welcome! 😊
 
-Connect with Me
+================================================================================================================
+-> Connect with Me
 
-💼 LinkedIn – Anumandla Bharath Srinivas
+- LinkedIn – Anumandla Bharath Srinivas - https://www.linkedin.com/in/anumandla-bharath-srinivas-694b51199/
 
-💻 GitHub – Abharath124
+- GitHub – Abharath124 - https://github.com/Abharath124
 
-🧠 HackerRank – rakhinani124
+- LeetCode – https://leetcode.com/u/NxGTBNquOj/
 
-💡 LeetCode – NxGTBNquOj
+- Email (Personal): bharath124anumandla@gmail.com
 
-📬 Email (Personal): bharath124anumandla@gmail.com
-
-📬 Email (College): banumandlamca24@ced.alliance.edu.in
+- # Email (College): banumandlamca24@ced.alliance.edu.in
