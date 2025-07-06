@@ -1,36 +1,98 @@
-# LEETCODE-QUESTION-IN-PYTHON
+📘 LEETCODE-QUESTION-IN-PYTHON
+🚀 Data Structures and Algorithms (DSA) Practice in Python
+Welcome to my DSA repository!
+This repo is a collection of my solutions to various LeetCode problems. I'm using this space to improve my problem-solving skills and prepare for coding interviews at top tech companies.
 
-# 🧠 Data Structures and Algorithms (DSA) Practice
+🧠 What You’ll Find Here
+✅ DSA problems from platforms like:
 
-Welcome to my DSA repository! This repo contains my solutions to various DSA problems that I'm solving to strengthen my problem-solving skills and prepare for technical interviews.
+LeetCode
 
----
+HackerRank
 
-## 📚 What You'll Find Here
+GeeksForGeeks
 
-- ✅ Solutions to DSA problems from platforms like:
+CodeStudio / Codeforces (if any)
 
-  - LeetCode
-  - HackerRank
-  - GeeksforGeeks
-  - CodeStudio / Codeforces (if any)
+📚 Topics Covered
+Solutions are organized by topic for easy reference:
 
-- ✅ Organized by topic:
+🔁 Arrays
 
-  - Arrays
-  - Strings
-  - Linked Lists
-  - Trees
-  - Graphs
-  - Dynamic Programming
-  - Sorting & Searching
-  - Backtracking
-  - Recursion, etc.
+📊 Strings
 
-- ✅ Languages Used:
-  - Python (main)
-  - Java (optional, if you're doing Java too)
+📦 Linked Lists
 
----
+🌲 Trees
 
-## 🔍 Folder Structure
+🧮 Math
+
+🗺️ Hashing
+
+📐 Two Pointers
+
+📈 Sliding Window
+
+📚 Stack & Queue
+
+🔀 Sorting & Searching
+
+🎯 Binary Search
+
+♾️ Recursion & Backtracking
+
+💡 Dynamic Programming
+
+📉 Greedy
+
+💬 Languages Used
+🐍 Python (primary)
+
+LEETCODE-QUESTION-IN-PYTHON/
+│
+├── Arrays/
+├── Strings/
+├── LinkedList/
+├── Trees/
+├── Stack/
+├── DP/
+├── ...
+└── README.md
+
+📌 How to Use
+Browse by topic or filename.
+
+Each solution file includes:
+
+✅ Problem description (short)
+
+🔍 Approach used
+
+🧠 Time & Space complexity
+
+💻 Code with comments
+
+In Progress
+Add solution explanations as markdown for better clarity
+
+Add Java solutions for selected problems
+
+Include visual diagrams where applicable
+
+Contributions & Feedback
+If you're practicing DSA too, feel free to fork the repo or suggest improvements via issues or pull requests!
+Feedback is always welcome! 😊
+
+Connect with Me
+
+💼 LinkedIn – Anumandla Bharath Srinivas
+
+💻 GitHub – Abharath124
+
+🧠 HackerRank – rakhinani124
+
+💡 LeetCode – NxGTBNquOj
+
+📬 Email (Personal): bharath124anumandla@gmail.com
+
+📬 Email (College): banumandlamca24@ced.alliance.edu.in
