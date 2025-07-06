@@ -83,7 +83,6 @@ Contributions & Feedback
 If you're practicing DSA too, feel free to fork the repo or suggest improvements via issues or pull requests!
 Feedback is always welcome! 😊
 
-================================================================================================================
 -> Connect with Me
 
 - LinkedIn – Anumandla Bharath Srinivas - https://www.linkedin.com/in/anumandla-bharath-srinivas-694b51199/
@@ -94,4 +93,4 @@ Feedback is always welcome! 😊
 
 - Email (Personal): bharath124anumandla@gmail.com
 
-- # Email (College): banumandlamca24@ced.alliance.edu.in
+- Email (College): banumandlamca24@ced.alliance.edu.in
