@@ -18,6 +18,6 @@ class Solution(object):
                     f-=3
                 else:
                     return False
-      
+      return True
                 
                 
